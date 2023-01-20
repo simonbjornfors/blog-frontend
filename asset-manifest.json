@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/simonbjornfors/blog-frontend/static/css/main.dac42a2e.css",
-    "main.js": "/simonbjornfors/blog-frontend/static/js/main.e87b3ae2.js",
-    "static/js/787.56a29bc1.chunk.js": "/simonbjornfors/blog-frontend/static/js/787.56a29bc1.chunk.js",
-    "static/media/logo.svg": "/simonbjornfors/blog-frontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/simonbjornfors/blog-frontend/index.html",
-    "main.dac42a2e.css.map": "/simonbjornfors/blog-frontend/static/css/main.dac42a2e.css.map",
-    "main.e87b3ae2.js.map": "/simonbjornfors/blog-frontend/static/js/main.e87b3ae2.js.map",
-    "787.56a29bc1.chunk.js.map": "/simonbjornfors/blog-frontend/static/js/787.56a29bc1.chunk.js.map"
+    "main.css": "/simonbjornfors/NyaZeelandDagbook/static/css/main.dac42a2e.css",
+    "main.js": "/simonbjornfors/NyaZeelandDagbook/static/js/main.d8b525b4.js",
+    "static/js/787.56a29bc1.chunk.js": "/simonbjornfors/NyaZeelandDagbook/static/js/787.56a29bc1.chunk.js",
+    "static/media/logo.svg": "/simonbjornfors/NyaZeelandDagbook/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/simonbjornfors/NyaZeelandDagbook/index.html",
+    "main.dac42a2e.css.map": "/simonbjornfors/NyaZeelandDagbook/static/css/main.dac42a2e.css.map",
+    "main.d8b525b4.js.map": "/simonbjornfors/NyaZeelandDagbook/static/js/main.d8b525b4.js.map",
+    "787.56a29bc1.chunk.js.map": "/simonbjornfors/NyaZeelandDagbook/static/js/787.56a29bc1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dac42a2e.css",
-    "static/js/main.e87b3ae2.js"
+    "static/js/main.d8b525b4.js"
   ]
 }

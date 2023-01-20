@@ -1,0 +1,15 @@
+.post{
+    min-width: 65vw;
+    width: 65vw;
+    margin: auto;
+    box-shadow: 1px 1px 5px black;
+    border-radius: 5px;
+    padding-bottom: 5vh;
+    margin-bottom: 3vh;
+    background-color: rgba(255, 255, 255, 0.7);
+}
+.post > img{
+    margin-top: 5vh;
+    filter: drop-shadow(1px 1px 3px black);
+    border-radius: 5px;
+}

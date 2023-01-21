@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/NyaZeelandDagbook/static/css/main.bf601fae.css",
-    "main.js": "/NyaZeelandDagbook/static/js/main.227b0191.js",
-    "static/js/787.56a29bc1.chunk.js": "/NyaZeelandDagbook/static/js/787.56a29bc1.chunk.js",
-    "static/media/logo.svg": "/NyaZeelandDagbook/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/NyaZeelandDagbook/index.html",
-    "main.bf601fae.css.map": "/NyaZeelandDagbook/static/css/main.bf601fae.css.map",
-    "main.227b0191.js.map": "/NyaZeelandDagbook/static/js/main.227b0191.js.map",
-    "787.56a29bc1.chunk.js.map": "/NyaZeelandDagbook/static/js/787.56a29bc1.chunk.js.map"
+    "main.css": "/blog-frontend/static/css/main.bf601fae.css",
+    "main.js": "/blog-frontend/static/js/main.bf65d433.js",
+    "static/js/787.56a29bc1.chunk.js": "/blog-frontend/static/js/787.56a29bc1.chunk.js",
+    "static/media/logo.svg": "/blog-frontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/blog-frontend/index.html",
+    "main.bf601fae.css.map": "/blog-frontend/static/css/main.bf601fae.css.map",
+    "main.bf65d433.js.map": "/blog-frontend/static/js/main.bf65d433.js.map",
+    "787.56a29bc1.chunk.js.map": "/blog-frontend/static/js/787.56a29bc1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf601fae.css",
-    "static/js/main.227b0191.js"
+    "static/js/main.bf65d433.js"
   ]
 }
